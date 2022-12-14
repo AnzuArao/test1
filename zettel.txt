@@ -1,0 +1,4 @@
+エラー1: step1-3の要素が縦並びになっていない
+1の解決:
+display: block;をmainに追加
+margin: 0 auto 20px;をcontents-boxに追加
